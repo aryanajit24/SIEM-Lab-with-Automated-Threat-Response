@@ -1,4 +1,4 @@
-# 🛡️ Enterprise-Grade SIEM Lab with Automated Threat Response
+# 🛡️ SIEM Lab with Automated Threat Response
 
 An advanced Security Operations Center (SOC) automation platform demonstrating professional-level security monitoring, threat detection, and automated incident response capabilities.
 
@@ -394,7 +394,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Aryan Panicker**
 
-- 💼 LinkedIn: [linkedin.com/in/aryanajit24](https://linkedin.com/in/aryanajit24)
+- 💼 LinkedIn: [linkedin.com/in/aryanajit24](https://www.linkedin.com/in/aryan-panicker-0856a0203/)
 - 🐙 GitHub: [@aryanajit24](https://github.com/aryanajit24)
 - 📧 Email: aryanajit24@gmail.com
 
@@ -411,11 +411,3 @@ This tool is designed for **educational purposes and legitimate security researc
 - Misuse of this tool may be illegal
 
 ---
-
-## ⭐ Show Your Support
-
-If this project helped you learn SIEM, threat detection, or security automation, please give it a star! ⭐
-
----
-
-**Built with 🛡️ by security enthusiasts, for security enthusiasts**
