@@ -1,13 +1,4 @@
 #!/usr/bin/env python3
-"""
-SOC Automation Engine for SIEM Lab with Automated Threat Response
-Author: aryanajit24
-Created: 2026-01-11
-
-This module provides a comprehensive automation engine for Security Operations Center (SOC)
-activities including threat detection, intelligence gathering, incident response, and case management.
-"""
-
 import json
 import logging
 import requests
