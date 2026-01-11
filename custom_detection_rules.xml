@@ -1,9 +1,3 @@
-<!-- 
-Enterprise-Grade Detection Rules
-Aligned with MITRE ATT&CK Framework
-Suitable for CompTIA Security+, CySA+, and GIAC-level demonstrations
--->
-
 <group name="custom,attack">
 
   <!-- ================================================== -->
